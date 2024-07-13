@@ -1,4 +1,4 @@
-<h1 align="center" id="title">GUI Calculator</h1>
+<h1 align="center" id="title">Calculator GUI</h1>
 
 <p align="center"><img src="https://socialify.git.ci/iammartariq/Internship-CodSoft-2023/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;theme=Light" alt="project-image"></p>
 
